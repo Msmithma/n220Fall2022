@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Make random</title>
+</head>
+<body>
+    <element onclick="click"></element>
+
+<h1>Make random</h1>
+
+</body>
+</html>

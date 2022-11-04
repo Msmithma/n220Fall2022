@@ -1,0 +1,15 @@
+!DOCTYPE html>
+<html>
+<body>
+
+<h1>Is divisible by 7</h1>
+<form name = "divisible" method = "POST"  onSubmit="return sendMe()">
+    <p><input type = "text" name = "textField">
+        <input type = "submit" value="Submit" onclick = "return chkForm()">
+        <input type ="reset" value = "Reset"></p>
+
+    </form>
+
+
+</body>
+</html>
